@@ -1,4 +1,4 @@
-## Hi there 👋
+# Abhirup's GitHub !!!
 
 <!--
 **abhirup-roy/abhirup-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Who am I?
+
+A profound question but...
+
+Long story short, I am a Chemical Engineering PhD student looking at using Discrete Element Modelling (_DEM_) and Machine Learning (_ML_) to predict the manufacturability of active pharmaceutical ingredients (_APIs_). My PhD is in conjunction with CDT Formulation Engineering (University of Birmingham) and AstraZeneca.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
+- Experienced in computational engineering, financial services, data analytics and data science
+- Knowledgeable on machine learning frameworks including regression, classification and clustering (and to some extent deep learning)
+- Knowledge of DEM and CFD-DEM modelling
